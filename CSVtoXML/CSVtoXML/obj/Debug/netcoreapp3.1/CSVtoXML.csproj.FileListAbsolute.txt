@@ -1,0 +1,13 @@
+D:\Coding\csProj\CSVtoXML\CSVtoXML\bin\Debug\netcoreapp3.1\CSVtoXML.exe
+D:\Coding\csProj\CSVtoXML\CSVtoXML\bin\Debug\netcoreapp3.1\CSVtoXML.deps.json
+D:\Coding\csProj\CSVtoXML\CSVtoXML\bin\Debug\netcoreapp3.1\CSVtoXML.runtimeconfig.json
+D:\Coding\csProj\CSVtoXML\CSVtoXML\bin\Debug\netcoreapp3.1\CSVtoXML.runtimeconfig.dev.json
+D:\Coding\csProj\CSVtoXML\CSVtoXML\bin\Debug\netcoreapp3.1\CSVtoXML.dll
+D:\Coding\csProj\CSVtoXML\CSVtoXML\bin\Debug\netcoreapp3.1\CSVtoXML.pdb
+D:\Coding\csProj\CSVtoXML\CSVtoXML\obj\Debug\netcoreapp3.1\CSVtoXML.csprojAssemblyReference.cache
+D:\Coding\csProj\CSVtoXML\CSVtoXML\obj\Debug\netcoreapp3.1\CSVtoXML.AssemblyInfoInputs.cache
+D:\Coding\csProj\CSVtoXML\CSVtoXML\obj\Debug\netcoreapp3.1\CSVtoXML.AssemblyInfo.cs
+D:\Coding\csProj\CSVtoXML\CSVtoXML\obj\Debug\netcoreapp3.1\CSVtoXML.csproj.CoreCompileInputs.cache
+D:\Coding\csProj\CSVtoXML\CSVtoXML\obj\Debug\netcoreapp3.1\CSVtoXML.dll
+D:\Coding\csProj\CSVtoXML\CSVtoXML\obj\Debug\netcoreapp3.1\CSVtoXML.pdb
+D:\Coding\csProj\CSVtoXML\CSVtoXML\obj\Debug\netcoreapp3.1\CSVtoXML.genruntimeconfig.cache
